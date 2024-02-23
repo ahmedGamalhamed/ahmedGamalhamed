@@ -10,5 +10,5 @@ Freelancing was really a blessing for my knowledge as it forced me to expand bey
 - 👨‍💻 I’m a MERN stack developer.
 - 🧠 I Love to work harder challanges using the full stack abilities.
 - 🧵 I enjoy working with Puppeteer & chrome_extensions to make magic happen.
-- 🔭 I’m currently working as a freelancer on [upwork](https://www.upwork.com/freelancers/~0198f475dd5c7e7d56)
+- 🔭 I’m currently working as a freelancer on Upwork
 - 🌱 I’m currently learning object-oriented design, functional programming concepts ...
