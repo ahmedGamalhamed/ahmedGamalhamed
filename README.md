@@ -2,6 +2,13 @@
 
 I’m a Full-Stack JavaScript/TypeScript Developer passionate about designing, developing, and deploying scalable web applications. With expertise in front-end frameworks like **React** and **Vue**, and back-end technologies such as **Node.js**, **Express.js**, **SQL**, and **MongoDB**, I thrive on creating efficient, user-focused solutions.  
 
+
+⭐Top rated (Top 3%) software engineer as an upwork freelancer 
+⭐50+ 5 stars projects 
+⭐30+ satisifed clients
+⭐Continues support and maintaince for any previous work.
+⭐Building long lasting relationships
+
 ---
 
 ## As an Employee  
