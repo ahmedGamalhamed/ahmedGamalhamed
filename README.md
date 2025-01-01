@@ -1,11 +1,16 @@
-### Hi, I am Ahmed Gamal
+### Hi there!
 
 A Full-Stack Javascript / Typescript Developer with experience in designing, developing, and deploying scalable web applications, working with Front-end Frameworks like React and Vue and back-end technologies like Node.Js, Express.js, SQL, and Mongo.
 
+#### As a freelancer
+
+As a **top rated (Top 3% in Tech)** freelancer on **Upwork** I can say for sure that Freelancing was a blessing for my knowledge as it forced me to expand beyond "normal" roles, tech stacks, and break the barrier between frontend and backend devops and development, to build and contribute to bring a wide range of ideas to life facing different types of problems and requirements, leading me to work harder to increase my understanding and usage of what each stack offers.
+So far I have contributed to over 50 projects for more than 30 clients, gaining valuable experience across diverse cultures and workflows.
+
+##### A bit of history
+
 I transitioned from being a civil engineer to become a developer as I Initially was drawn to the efficiency of Excel functions and automating hours of work with few clicks, then I started a journey to develop a bot to purchase a GPU card during the Bitcoin craze. This experience started my journey in programming and web development, prompting me to transition into a career as a MERN stack developer, where it took me from self studying to freelancing on 50+ various sized projects to an IT scholarship and full time employment as I continue along my path of following my passion
 
-Freelancing was a blessing for my knowledge as it forced me to expand beyond "normal" roles, tech stacks, and break the barrier between frontend and backend devops and development, to build and contribute to bring a wide range of ideas to life facing different types of problems and requirements, leading me to work harder to increase my understanding and usage of what each stack offers.
-So far I have contributed to over 50 projects for more than 30 clients, gaining valuable experience across diverse cultures and workflows.
 
 
 👨‍💻 I’m a MERN stack developer.
