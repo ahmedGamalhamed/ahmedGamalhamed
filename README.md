@@ -25,7 +25,7 @@ I believe full-time employment offers unique opportunities that freelancing ofte
 ---
 
 ## As a Freelancer  
-As a **Top Rated (Top 3% in Tech)** freelancer on **Upwork**, freelancing has been a transformative experience. It has pushed me to:  
+As a **Top Rated Plus (Top 1% in Tech)** freelancer on **Upwork**, freelancing has been a transformative experience. It has pushed me to:  
 - Expand my expertise across diverse tech stacks, including front-end, back-end, and DevOps.  
 - Break traditional role boundaries, building comprehensive solutions from idea to deployment.  
 - Collaborate with over **30 clients** on **50+ projects**, embracing different workflows, cultures, and challenges.  
